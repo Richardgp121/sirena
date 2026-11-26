@@ -1,0 +1,25 @@
+{
+  "name": "SIRENA · Atención de sismos",
+  "short_name": "SIRENA",
+  "description": "Sistema de coordinación para la atención de sismos",
+  "lang": "es-CO",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F2F4F6",
+  "theme_color": "#0E2A47",
+  "icons": [
+    {
+      "src": "logos/sirena_icono_180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "logos/sirena_icono_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
